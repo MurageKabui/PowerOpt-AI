@@ -1,0 +1,3 @@
+The date today is
+Today's date is
+Dennis, the date today is

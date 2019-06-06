@@ -1,0 +1,6 @@
+Shutting down in a few, please confirm your action from the pop up dialogue on your computer.
+Please make sure you have saved all your work, then confirm command from the pop up dialogue.
+I am about to shutdown your computer. Please ensure you have saved all your work ,then click OK to confirm action.
+shutting down in 10 seconds.. Please ensure you have saved all your work then proceed to click OK from the dialogue.
+Save all your work and select okay to confirm your action.
+
